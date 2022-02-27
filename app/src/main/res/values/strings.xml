@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">City Weather</string>
+    <string name="hint_city_name">Type City Name</string>
+    <string name="btn_lookup">Lookup</string>
+    <string name="no_data">No data found, Try Again</string>
+    <string name="invalid_city_name">Invalid City Name</string>
+    <string name="weather_type">Weather Type: %1$s </string>
+    <string name="current_temp">Curr Temp: %1$s </string>
+    <string name="max_temp">Max Temp: %1$s </string>
+    <string name="min_temp">Min Temp: %1$s </string>
+    <string name="feels_like_temp">Feels Like: %1$s </string>
+</resources>
